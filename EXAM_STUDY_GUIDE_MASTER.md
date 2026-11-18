@@ -248,18 +248,172 @@ Published twenty-one years after *Donum vitae* under Pope Benedict XVI and Cardi
 
 ---
 
-# MODULE IV: Quick-Reference Memory Anchors for the Exam
+---
 
-1. **The Three Fundamental Goods (*Dignitas personae*, n. 12):**
+# MODULE IV: End-of-Life Ethics, Euthanasia & Proportionality
+*Authoritative Guide to Iura et bona (1980), Samaritanus bonus (2020), and CDF Responsa on ANH (2007)*  
+*Primary Sources:*
+- [`sources/magisterium/1980-iura-et-bona.md`](file:///C:/Users/antst/Documents/20.%20STB/Year%203/Semester%20I/Morale%20Speciale/sources/magisterium/1980-iura-et-bona.md)
+- [`sources/magisterium/2020-samaritanus-bonus.md`](file:///C:/Users/antst/Documents/20.%20STB/Year%203/Semester%20I/Morale%20Speciale/sources/magisterium/2020-samaritanus-bonus.md)
+- [`sources/magisterium/2007-cdf-responsum-anh.md`](file:///C:/Users/antst/Documents/20.%20STB/Year%203/Semester%20I/Morale%20Speciale/sources/magisterium/2007-cdf-responsum-anh.md)
+
+---
+
+### 1. Declaration on Euthanasia: *Iura et Bona* (CDF, 5 May 1980)
+
+#### A. Verbatim Definition of Euthanasia in the Strict Sense (Section II)
+> **Italian (Mandatory Exam Formulation):**  
+> *"Per eutanasia in senso vero e proprio si deve intendere un'azione o un'omissione che di sua natura e nelle intenzioni procura la morte, allo scopo di eliminare ogni dolore."*
+>
+> **English:**  
+> *"By euthanasia in the proper sense is understood an action or an omission which of itself or by intention causes death, in order that all suffering may in this way be eliminated."*
+
+- **The Three Essential Elements (The "1 or 0" Scoring Standard):**
+  1. **Act of Commission or Omission:** Can be committed positively by administering a lethal substance (*actio*), or negatively by omitting basic ordinary care (*omissio*).
+  2. **Intrinsic Object or Intention:** The death is either the intrinsic nature of the act itself (*finis operis* / *de sua natura*), or the formal intention of the acting subject (*finis operantis* / *in intentione*).
+  3. **Motive:** The subjective motive of eliminating suffering (*allo scopo di eliminare ogni dolore*). Even noble subjective motives (compassion, relief of misery) do not alter the objective species of homicide.
+- **Moral Evaluation:** Gravely illicit (*actus intrinsece malus*), a direct violation of the divine law and a crime against innocent human life.
+
+#### B. The Use of Painkillers and Analgesics (Section III)
+- **Principle of Double Effect (*Praeter Intentionem*):**  
+  It is morally licit to administer narcotics and analgesics to alleviate intractable pain, **even if they foreseeably shorten the patient's life**, provided:
+  1. Death is not willed either as an end or as a chosen means;
+  2. There is no other clinical means to alleviate the pain;
+  3. The intention is strictly to suppress pain, with death being merely an unintended, tolerated side-effect (*praeter intentionem*).
+- **The Duty to Preserve Consciousness:**  
+  The dying person must not be deprived of consciousness without a grave clinical reason, because consciousness is necessary to satisfy moral and familial duties, settle temporal affairs, and prepare spiritually to meet God through the Sacraments.
+
+#### C. Due Proportion in the Use of Remedies: Beyond Ordinary vs Extraordinary (Section IV)
+- *Iura et bona* introduced a decisive conceptual shift: while preserving the classic casuistic distinction between *ordinary* and *extraordinary* means, it introduced the modern, clinical category of **proportionate versus disproportionate means** (*mezzi proporzionati vs sproporzionati*).
+- **Refusal of Therapeutic Obstinacy (*Accanimento Terapeutico*):**  
+  When death is imminent and inevitable, it is morally licit in conscience to refuse or discontinue medical procedures that would only procure a precarious, painful, or burdensome prolongation of life, provided that the normal care due to the sick person (hygiene, hydration, pain management) is never interrupted.
+
+---
+
+### 2. Letter *Samaritanus Bonus* (CDF, 14 July 2020)
+
+Published by the Congregation for the Doctrine of the Faith under Pope Francis, *Samaritanus bonus* addresses the modern clinical and legislative landscape: legalized assisted suicide, deep continuous palliative sedation, artificial nutrition in vegetative states, and sacramental pastoral care.
+
+#### Key Tested Paragraphs in Part V (Magisterial Teaching):
+
+1. **V.1 Prohibition of Euthanasia and Assisted Suicide:**
+   - Defines euthanasia as a *crimen contra vitam humanam* and an *actus intrinsece malus*, which no authority, law, or personal intention can ever legitimise.
+   - Clarifies that assisted suicide (*suicidio medicalmente assistito*) incurs the same objective gravity, aggravating the moral disorder by drawing medical professionals into formal complicity with suicide.
+
+2. **V.2 The Moral Obligation to Avoid Therapeutic Obstinacy (*Accanimento Terapeutico*):**
+   - Catholic ethics strictly distinguishes euthanasia from the licit withdrawal of futile, aggressive treatments (*ostinazione irragionevole*). Withdrawing treatments that have become disproportionate or physiologically ineffective is not causing death; it is accepting the human condition and allowing natural death to take its course.
+
+3. **V.3 & V.8 Artificial Nutrition and Hydration (ANH): The Three Legitimate Limits:**
+   - **General Rule:** The administration of water and food (even artificially via nasogastric tube or PEG) represents **basic ordinary care due to the patient (*cura ordinaria dovuta al malato*)**, not a medical treatment. It is morally obligatory so long as it preserves life and prevents the agonizing death of dehydration and starvation.
+   - **The Three Strict Clinical Conditions Permitting Withdrawal of ANH:**
+     1. **Physiological Futility / Inability to Assimilate:** The patient's body can no longer absorb or digest nutrients (e.g. advanced intestinal necrosis, end-stage bowel ischaemia, irreversible multiorgan failure).
+     2. **Disproportionate Physical Burden / Severe Harm:** The administration causes acute physical suffering or life-threatening complications (e.g. repeated pulmonary aspiration pneumonia, severe painful esophageal reflux, severe persistent site infection).
+     3. **Terminal Agonal Phase:** In the imminent hours of active dying, physiological dehydration is part of the natural dying process; forcing hydration can cause fluid overload, peripheral oedema, and distressing pulmonary secretions (*death rattle*).
+   - **Crucial Negative Criterion:** ANH can **never** be discontinued on the grounds of cognitive loss, persistent unconsciousness, or intellectual impairment (Persistent Vegetative State / PVS). Discontinuing food and water in such patients constitutes intentional euthanasia by omission.
+
+4. **V.4 & V.7 Palliative Care and Deep Continuous Sedation (*Sedazione Palliativa Profonda*):**
+   - **Definition:** The controlled administration of sedatives to induce unconsciousness until natural death, aimed at managing intolerable, untreatable symptoms in the terminal stage.
+   - **The Three Criteria of Moral Licitness:**
+     1. **Refractory Symptoms:** Applicable strictly in the imminent terminal phase for refractory symptoms (physical pain or psychological anguish that has proven unresponsive to all available palliative protocols).
+     2. **Principle of Double Effect:** The intention must be solely to relieve suffering (*sedare dolorem*); death must neither be intended as an end nor chosen as a means (*praeter intentionem*).
+     3. **Sacramental and Spiritual Preparation:** The patient must have the conscious opportunity to settle familial duties and receive the Sacraments (Penance, Anointing of the Sick, and Viaticum) before consciousness is permanently relinquished.
+   - **Requena's Pastoral & Clinical Alert:** Prof. Requena cautions against covert hospital practices where deep sedation is initiated precipitously without refractory pain and fluids are simultaneously discontinued, effectively inducing dehydration-death within 4 to 5 days under the benign label of palliation.
+
+5. **V.9 Conscientious Objection:**
+   - Catholic healthcare professionals and Catholic healthcare institutions have an absolute, non-negotiable moral duty of conscientious objection against euthanasia, assisted suicide, and abortion.
+   - Catholic hospitals are strictly forbidden from participating in institutional schemes or hosting procedures directed toward assisted dying.
+
+6. **V.11 Sacramental Discernment for Those Requesting Euthanasia:**
+   - **Sacramental Refusal:** Those who formally request assisted suicide or euthanasia **cannot receive the Sacraments of Penance, Anointing of the Sick, or Viaticum** so long as they obstinately maintain their intention.
+   - **Theological Reason:** Sacramental absolution requires sincere contrition and the firm purpose of amendment (*propositum emendationis*), which necessarily entails the explicit revocation of the homicidal request. Administering sacraments to someone obstinate in euthanasia constitutes a grave public scandal and a sacrilegious simulation of the sacrament.
+
+---
+
+### 3. CDF Responses on Artificial Nutrition and Hydration (1 August 2007)
+
+Promulgated under Pope Benedict XVI and Cardinal William Levada following international legal controversies (e.g. Terri Schiavo and Eluana Englaro), this document provides authoritative, definitive judgements on the vegetative state:
+
+#### The First Responsum: Moral Obligation
+- **Question:** *Is the administration of food and water (whether by natural or artificial means) to a patient in a "vegetative state" morally obligatory, except when they cannot be assimilated by the patient's body or cannot be administered without causing significant physical discomfort?*
+- **Authoritative Response: AFFIRMATIVE (Yes).**
+- **Doctrinal Rationale:** The administration of water and food, even by artificial means, is in principle an **ordinary and proportionate means of preserving life**. It accomplishes its proper natural end: the nourishment and hydration of the human subject, preventing death by starvation and dehydration.
+
+#### The Second Responsum: Permanent Vegetative State
+- **Question:** *When nutrition and hydration are being supplied by artificial means to a patient in a "permanent vegetative state", may they be discontinued when competent physicians judge with moral certainty that the patient will never recover consciousness?*
+- **Authoritative Response: NEGATIVE (No).**
+- **Doctrinal Rationale:** A patient in a permanent vegetative state is an individual **human person with fundamental personal dignity**. Personal dignity is ontological and inalienable; it does not disappear with the loss of higher cognitive functions or relational consciousness. Withdrawing ANH in this condition is directly causing death by starvation, which constitutes euthanasia by omission.
+
+---
+
+### 4. Historical & Theoretical Synthesis of Medical Means
+
+#### A. Francisco de Vitoria, O.P. (1483–1546, *Relectio de Homicidio*)
+- Foundational Dominican theologian of the School of Salamanca who established the scholastic framework of medical preservation of life:
+  - **Media Communia:** Ordinary food and remedies that are accessible and proportionate; their use is obligatory under natural law.
+  - **Media Difficilia:** Burdensome or extraordinary measures; not obligatory.
+  - **The Principle of *Quaedam Impossibilitas*:** Vitoria taught that if taking food causes a dying or severely ill person grave horror, intense nausea, or unbearable pain, they are morally excused from taking it. The moral impossibility excuses from the physical obligation.
+
+#### B. Pope Pius XII (1957 Allocution to Anaesthesiologists)
+- Defined the classical Magisterial boundary regarding resuscitation techniques and mechanical ventilators:
+  - Man has a duty to preserve life through ordinary means (*mezzi ordinari*), but is not bound to use extraordinary means (*mezzi straordinari*) that impose a crushing burden on the patient or family.
+  - When vital organs are kept functioning purely by artificial machines after catastrophic trauma, the physician may licitly withdraw the machines if resuscitation offers no reasonable hope of recovery.
+  - Addressed the metaphysical question of the separation of the soul (*separatio animae a corpore*): it is the duty of biological science to verify the cessation of organismic vital functions, which signals that life has departed.
+
+#### C. Prof. Pablo Requena's 4-Quadrant Matrix of Medical Means (2019)
+Prof. Requena resolves the confusion between "ordinary/extraordinary" and "proportionate/disproportionate" through a rigorous clinical-ethical matrix:
+
+```
+                  ┌──────────────────────────────────────────────┐
+                  │          DISPROPORTIONATE MEANS              │
+                  │   (Therapeutic Obstinacy / Illicit)          │
+▲ UPPER THRESHOLD ├──────────────────────────────────────────────┤ ◄ Ceiling of Futility
+│                 │                                              │
+│                 │       SPACE OF THERAPEUTIC PRUDENCE          │
+│                 │                                              │
+│                 │   • Extraordinary & Proportionate (Optional) │
+│                 │   • Proportionate Experimental Treatments    │
+│                 │                                              │
+▼ LOWER THRESHOLD ├──────────────────────────────────────────────┤ ◄ Floor of Abandonment
+                  │            ORDINARY MEANS                    │
+                  │   (Basic Care & Hydration / Obligatory)      │
+                  └──────────────────────────────────────────────┘
+```
+
+1. **Ordinary Means:** Always **Obligatory** (The Lower Threshold; falling below it constitutes therapeutic abandonment / *abbandono terapeutico*).
+2. **Extraordinary Means:** **Optional** (Non-obligatory, but morally licit if the patient chooses to pursue proportionate clinical benefit).
+3. **Proportionate Means:** **Morally Licit** (Reasonable proportion between physical/economic burden and expected clinical benefit).
+4. **Disproportionate Means:** Always **Illicit** (The Upper Threshold; exceeding it constitutes therapeutic obstinacy / *accanimento terapeutico*).
+- Between the lower floor and the upper ceiling lies the vast **Space of Therapeutic Prudence**, where physicians, patients, and families discern specific clinical decisions in conscience.
+
+---
+
+# MODULE V: Quick-Reference Memory Anchors for the Exam
+
+1. **The "1 or 0" Definition of Direct Abortion (*Evangelium vitae*, n. 58):**
+   - *"L'uccisione deliberata e diretta, comunque venga attuata, di un essere umano nella fase iniziale della sua esistenza, compresa tra il concepimento e la nascita."*
+2. **The "1 or 0" Definition of Euthanasia (*Iura et bona*, Section II):**
+   - *"Un'azione o un'omissione che di sua natura e nelle intenzioni procura la morte, allo scopo di eliminare ogni dolore."*
+3. **The Three Fundamental Goods (*Dignitas personae*, n. 12):**
    - 1. Right to life and physical integrity from conception to natural death.
-   - 2. Unity of marriage (become parents only through each other).
-   - 3. Human values of sexuality (fruit of conjugal act).
-2. **The Golden Criterion of *Donum vitae* (II.B.7):**
-   - *Adiuvet* = Licit Assistance.
-   - *Subroget* = Illicit Substitution.
-3. **The Status of Frozen Embryos (*Dignitas personae*, n. 19):**
-   - *"Situazione di ingiustizia di fatto insanabile"* (no morally licit exit path; prenatal adoption rejected).
-4. **PGD Evaluation (*Dignitas personae*, n. 22):**
-   - Direct expression of a **eugenic mentality** (*mentalità eugenetica*); selective abortion of the defective.
-5. **The Rejection of Independence (*Dignitas personae*, n. 35):**
-   - Temporal or institutional separation between the abortionist and the researcher does *not* render illicit cell lines morally neutral.
+   - 2. Unity of marriage (becoming parents only through each other).
+   - 3. Specifically human values of sexuality (fruit of conjugal act).
+4. **The Golden Criterion of *Donum vitae* (II.B.7):**
+   - *Adiuvet* = Licit Assistance to the marital act.
+   - *Subroget* = Illicit Substitution of the marital act by technological dominion.
+5. **The Three Legitimate Withdrawal Limits of ANH (*Samaritanus bonus*, V.3):**
+   - 1. Physiological futility (inability to assimilate food/fluids).
+   - 2. Disproportionate physical burden / severe complications.
+   - 3. Imminent agonal phase of active dying.
+6. **The Three Criteria for Deep Continuous Sedation (*Samaritanus bonus*, V.4):**
+   - 1. Refractory terminal symptoms only.
+   - 2. Double effect (death neither end nor means).
+   - 3. Conscious opportunity to settle duties and receive Sacraments prior to sedation.
+7. **The Status of Frozen Embryos (*Dignitas personae*, n. 19):**
+   - *"Situazione di ingiustizia di fatto insanabile"* (prenatal adoption rejected).
+8. **PGD Evaluation (*Dignitas personae*, n. 22):**
+   - Expression of a **eugenic mentality** (*mentalità eugenetica*).
+9. **The Two CDF 2007 Responsa on ANH:**
+   - Question 1: **AFFIRMATIVE** (ANH is ordinary, proportionate, and obligatory).
+   - Question 2: **NEGATIVE** (ANH cannot be withdrawn because consciousness is permanently lost).
+10. **Refusal of Sacraments in Euthanasia (*Samaritanus bonus*, V.11):**
+    - Sacraments **cannot** be administered so long as the request for euthanasia is obstinately maintained; requires sincere contrition and explicit retraction.
