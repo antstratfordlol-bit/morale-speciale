@@ -8,14 +8,17 @@
 
 ## Guide Architecture & Roadmap
 
-This master document serves as the cumulative study dossier for the written examination (accounting for 80% of the grade of Section I). It is designed to be modular so that further Magisterial documents and lecture themes can be incorporated over the coming days:
+This master document serves as the cumulative, authoritative study dossier for the written examination (accounting for 80% of the grade of Section I):
 
-- **Module I: Instruction *Donum vitae* (CDF, 22 February 1987)** *(Current Module)*
-- **Module II: Instruction *Dignitas personae* (CDF, 8 September 2008)** *(Current Module)*
-- **Module III: Encyclical *Evangelium vitae* (John Paul II, 25 March 1995)** *(To be expanded)*
-- **Module IV: End-of-Life, Euthanasia & Proportionality (*Iura et bona* 1980, *Samaritanus bonus* 2020)** *(To be expanded)*
-- **Module V: Magisterial Addresses & CDF *Responsa* (Pius XII, John Paul II, CDF 2007)** *(To be expanded)*
-- **Module VI: Examination Blueprints, Question Bank & Model Answers** *(To be expanded)*
+- **Module I: Instruction *Donum vitae* (CDF, 22 February 1987)**
+- **Module II: Instruction *Dignitas personae* (CDF, 8 September 2008)**
+- **Module III: Cross-Document Comparative Matrix (*Donum vitae* vs *Dignitas personae*)**
+- **Module IV: End-of-Life Ethics, Euthanasia & Proportionality (*Iura et bona* 1980, *Samaritanus bonus* 2020, CDF 2007 *Responsa*)**
+- **Module V: Encyclical *Evangelium vitae* (John Paul II, 25 March 1995)**
+- **Module VI: Landmark Papal Addresses (Transplants & Brain Death 2000, Vegetative State 2004)**
+- **Module VII: Secular Bioethics, Critical Controversies & Key Interlocutors (Macklin, Singer, Hendin, Rachels)**
+- **Module VIII: Quick-Reference Memory Anchors & Non-Negotiable Formulations**
+- **Module IX: Master Examination Question Bank & Model Responses (MCQs, Short Answers, Synthetic Essays)**
 
 ---
 
@@ -387,33 +390,310 @@ Prof. Requena resolves the confusion between "ordinary/extraordinary" and "propo
 
 ---
 
-# MODULE V: Quick-Reference Memory Anchors for the Exam
+---
+
+# MODULE V: Encyclical *Evangelium Vitae* (John Paul II, 25 March 1995)
+
+*The Inviolability and Sanctity of Human Life*  
+*Primary Sources:* Encyclical Letter *Evangelium vitae* (25 March 1995); *Lumen gentium*, n. 25 §2; Code of Canon Law, can. 1397 §2 (former can. 1398).
+
+---
+
+### 1. Theological, Biblical and Anthropological Foundations
+
+Promulgated on the Solemnity of the Annunciation, *Evangelium vitae* constitutes the foundational Magna Carta of contemporary Catholic bioethics and the moral theology of life:
+
+1. **The Biblical Witness:**
+   - **Genesis 4 (Cain and Abel):** God’s question, *"Where is Abel your brother?"*, and Cain’s evasive reply, *"Am I my brother's keeper?"*, reveal the root of every culture of death: the rupture of fraternity and the eclipse of God leading to the eclipse of man (*EV* 7-9).
+   - **Genesis 9:6:** The solemn covenantal norm: *"Whoever sheds the blood of man, by man shall his blood be shed; for God made man in his own image."* Human life belongs to God alone; it is sacred (*vita sacra*).
+   - **Psalm 139:13-15:** *"For thou didst form my inward parts, thou didst knit me together in my mother's womb."* Affirms divine personal providence over the unborn child.
+
+2. **The Structure of the Moral Act in Bioethics (*EV* 57):**
+   - Direct killing involves the deliberate choice of the physical and moral destruction of an innocent human being (*in-nocens*).
+   - The term *in-nocens* indicates the human being who does no harm, who is incapable of aggression, and who is entirely defenceless.
+   - The prohibition of direct killing of an innocent person is an absolute, exceptionless moral norm (*intrinsece malum*), admitting no excuses of intention or circumstance.
+
+---
+
+### 2. The Three Solemn Dogmatic Formulations under *Lumen Gentium* 25 §2
+
+John Paul II exercised the **Ordinary and Universal Magisterium** (*episcopis consentientibus*) to pronounce three definitive, irreformable moral condemnations. In each case, the Pope uses a solemn formula explicitly invoking the authority of Christ, Peter, and Paul:
+
+#### A. Murder of the Innocent (*Evangelium vitae*, n. 57)
+> *"Con la potestà che Cristo ha conferito a Pietro e ai suoi Successori, in comunione con i Vescovi della Chiesa cattolica, confermo che l'uccisione diretta e volontaria di un essere umano innocente è sempre gravemente immorale."*  
+> (By the authority which Christ conferred upon Peter and his Successors, in communion with the Bishops of the Catholic Church, I confirm that the direct and voluntary killing of an innocent human being is always gravely immoral.)
+
+#### B. Direct Abortion (*Evangelium vitae*, n. 62)
+> *"Con l'autorità che Cristo ha conferito a Pietro e ai suoi Successori, in comunione con i Vescovi... dichiaro che l'aborto diretto, cioè voluto come fine o come mezzo, costituisce sempre un disordine morale grave, in quanto uccisione deliberata di un essere umano innocente."*  
+> (By the authority which Christ conferred upon Peter and his Successors, in communion with the Bishops... I declare that direct abortion, that is, willed as an end or as a means, always constitutes a grave moral disorder, since it is the deliberate killing of an innocent human being.)
+
+- **The Mandatory "1 or 0" Definition of Direct Abortion (*EV* 58):**
+  > *"L'uccisione deliberata e diretta, comunque venga attuata, di un essere umano nella fase iniziale della sua esistenza, compresa tra il concepimento e la nascita."*  
+  > (The deliberate and direct killing, by whatever means it is carried out, of a human being in the initial phase of his or her existence, extending from conception to birth.)
+
+#### C. Euthanasia in the Strict Sense (*Evangelium vitae*, n. 65)
+> *"In sintonia con il Magistero dei miei Predecessori e in comunione con i Vescovi della Chiesa cattolica, confermo che l'eutanasia è una grave violazione della Legge di Dio, in quanto uccisione deliberata e moralmente inaccettabile di una persona umana."*  
+> (In harmony with the Magisterium of my Predecessors and in communion with the Bishops of the Catholic Church, I confirm that euthanasia is a grave violation of the law of God, since it is the deliberate and morally unacceptable killing of a human person.)
+
+- **Dogmatic Hermeneutics (*Lumen Gentium* 25 §2):**  
+  These three declarations are not merely disciplinary or prudential teachings. By formally declaring that these truths are *"transmitted by the Church's Tradition and taught by the Ordinary and Universal Magisterium"*, John Paul II explicitly fulfilled the criteria of *Lumen gentium* 25 §2: they constitute definitive, infallible Catholic dogma (*de fide tenenda*).
+
+---
+
+### 3. Abortion and Canonical Discipline (Can. 1397 §2)
+
+1. **The Canonical Penalty:**
+   - Under the revised Book VI of the Code of Canon Law (promulgated by Pope Francis in 2021, can. 1397 §2; formerly can. 1398): *"A person who procures a completed abortion incurs a latae sententiae excommunication"* (*scomunica latae sententiae*).
+   - The penalty is incurred automatically *ipso facto* upon the completion of the act (*abortu secuto*).
+
+2. **Subjective Conditions and Accomplices:**
+   - Incurs all necessary physical and formal accomplices without whose assistance the abortion would not have been realised (e.g. the operating gynaecologist, anaesthetist, or coercive partner).
+   - Canonical excuses (can. 1323-1324) exclude or mitigate the penalty if the agent was under 16 years of age, acted under grave fear (*metus gravis*), or lacked the full use of reason.
+
+---
+
+### 4. Civil Legislation, Democracy and *EV* 73 (*Lex Imperfecta*)
+
+1. **Unjust Laws Have No Moral Validity (*EV* 72):**
+   - Quoting St Thomas Aquinas (*Summa Theologiae*, I-II, q. 95, a. 2), an unjust civil law legalising abortion or euthanasia is not a true law, but an act of violence: *lex iniusta non est lex*.
+   - There is a grave moral obligation of **conscientious objection** (*obiezione di coscienza*): no citizen or medical professional may participate in the execution of intrinsically immoral laws.
+
+2. **Voting for a Restrictive Law (*EV* 73):**
+   - **The Dilemma:** When it is not politically possible to repeal an existing permissive abortion or euthanasia law in its entirety, may a Catholic legislator vote for a more restrictive proposal that permits some abortions while significantly reducing the number of permitted terminations?
+   - **The Moral Solution of *EV* 73:** A legislator whose absolute personal opposition to abortion is well known may licitly offer his vote to a more restrictive legislative proposal aimed at **limiting the harm** (*limitare i danni* / *lex imperfecta*). This does not constitute illicit formal cooperation with an unjust law, but a legitimate exercise of political prudence aimed at minimizing evil.
+
+---
+
+### 5. Pastoral Reconciliation: *Evangelium Vitae* 99
+
+In one of the most celebrated passages of the encyclical, St John Paul II addresses women who have resorted to abortion:
+* **Pastoral Recognition of Existential Suffering:** The Church recognises the agonizing pressures, emotional isolation, and false promises that often lead women to this tragic decision: *"The wound in your heart may not yet have healed. Certainly what happened was and remains terribly wrong."*
+* **The Pathway of Hope and Reconciliation:** The Pope urges women never to succumb to despair or abandon hope. Through the Sacrament of Penance (*Confession*), they can obtain forgiveness and peace with God: *"You will come to understand that nothing is definitively lost."*
+* **Entrusting the Child to the Father:** *"You will also be able to ask your child for forgiveness, who is now living in the Lord. With the friendly and expert help and advice of other people, and as a result of your own painful experience, you can be among the most eloquent defenders of everyone's right to life."*
+
+---
+
+# MODULE VI: Landmark Papal Addresses on End-of-Life & Clinical Death
+
+---
+
+### 1. John Paul II: Address to the Transplantation Society (29 August 2000)
+*XVIII International Congress of the Transplantation Society, Rome*  
+*High-Yield Exam Alert: Explicitly flagged by Prof. Requena in Lecture 14 for textual examination questions!*
+
+1. **The Church's Philosophical Definition of Death:**
+   - Death is a unique, unrepeatable ontological event: the complete and irreversible disintegration of the living organism as a unified whole (*la perdita definitiva della capacità dell'organismo di funzionare in modo unitario*).
+   - In metaphysical terms, death coincides with the separation of the spiritual soul from the physical body (*separatio animae a corpore*).
+
+2. **The Competence of Medicine and the Two Valid Clinical Criteria:**
+   - The Magisterium does not establish medical diagnostic parameters; technical verification belongs strictly to clinical science.
+   - Clinical medicine identifies two valid, moral certain pathways to ascertain that death has occurred:
+     1. **The Traditional Cardiorespiratory Criterion:** Irreversible cessation of cardiac and respiratory functions.
+     2. **The Neurological Criterion (Brain Death / *Morte Encefalica*):** The complete and irreversible cessation of all brain activity, including the cerebrum, cerebellum, and brainstem.
+   - When verified with rigorous clinical protocols (apnoea test, EEG silence, absence of brainstem reflexes, documented observation period), the neurological criterion provides moral certainty that the person is deceased.
+
+3. **Ethical Preconditions for Organ Donation:**
+   - **The Dead Donor Rule:** Vital organs (heart, full liver) may be harvested only *ex cadavere*, from a person who is already genuinely dead. Harvesting organs that would directly cause the death of the donor is murder.
+   - **Free and Informed Consent:** Organs cannot be harvested without the prior explicit, informed consent of the donor or their legitimate legal representatives.
+   - **Prohibition of Commercialisation:** The human body cannot be commodified or sold; organ donation must remain an act of gratuitous love and solidarity.
+
+---
+
+### 2. John Paul II: Address on the Vegetative State (20 March 2004)
+*Address to the International Congress on Life-Sustaining Treatments and Vegetative State*
+
+1. **Ontological Personhood in Persistent Vegetative State (PVS):**
+   - A human person in a vegetative state, even if permanent, remains a living human person possessing intrinsic human dignity.
+   - He never becomes a "vegetable" or a sub-human being; the value of human life is grounded in ontological being, not in the functional capacity to manifest relational consciousness.
+
+2. **ANH as Ordinary and Proportionate Care:**
+   - The administration of food and water, even when provided via artificial technical means (nasogastric tube or PEG), is **in principle ordinary and proportionate basic care**, not medical therapy.
+   - Its omission with the intent to cause death by dehydration and starvation is true euthanasia by omission.
+   - *Doctrinal Weight:* Constitutes ordinary papal magisterium demanding religious assent of intellect and will (*obsequium religiosum*), developed and nuanced further by the CDF in *Samaritanus bonus* regarding severe clinical complications and active terminal dying.
+
+---
+
+# MODULE VII: Secular Bioethics, Critical Controversies & Key Interlocutors
+
+---
+
+### 1. Ruth Macklin (2003): "Dignity is a Useless Concept"
+* **The Secular Thesis:** In December 2003, American bioethicist Ruth Macklin published a provocative editorial in the *British Medical Journal* (*BMJ* 2003; 327:1419–1420), arguing that "human dignity" is a vacuous and redundant concept in bioethics, reducible entirely to **patient autonomy** (*"dignity means no more than respect for persons or their autonomy"*).
+* **Personalist and Catholic Rebuttal (Prof. Requena):**
+  - Reducing dignity to autonomy strips moral protection from all human beings who lack the present capacity to exercise autonomy: embryos, fetuses, newborns, comatose patients, and patients with severe cognitive dementia.
+  - In clinical reality, dignity is most needed precisely when autonomy is completely absent: an unconscious or demented patient has no autonomy, yet retains inalienable ontological dignity (*dignitas infinita*), obliging medical staff to care for them with reverence.
+
+---
+
+### 2. Peter Singer: Preference Utilitarianism and Speciesism
+* **The Utilitarian Thesis (*Practical Ethics*, 1979):**
+  - Peter Singer rejects the sanctity of human life, accusing traditional morality of **speciesism** (unjustified favouritism toward members of the species *Homo sapiens*).
+  - Singer separates biological human life (*human being*) from moral personhood (*person*): a "person" is defined functionally by rationality, self-awareness, and future-directed desires.
+  - Consequently, Singer argues that human fetuses, newborns, and comatose individuals are not persons; they possess less moral worth than a healthy adult dog, chimpanzee, or pig.
+* **Catholic Rebuttal:**
+  - Personhood is ontological, not functional: an individual is a person because of what he *is* (a substantial being of a rational nature, Boethius: *naturae rationalis individua substantia*), not because of what he currently *does* or *displays*.
+  - Functionalism creates an arbitrary caste system where the strong decide which weak human beings qualify for the right to life.
+
+---
+
+### 3. Herbert Hendin, MD: *Seduced by Death* (1996) & The Dutch Reality
+* **The Empirical Investigation (Lecture 14):**
+  - Herbert Hendin, an agnostic American psychiatrist and suicide prevention director, conducted an on-the-ground study of the Dutch euthanasia regime.
+  - *The Central Finding:* Euthanasia, presented ideologically as "patient autonomy and empowerment", in clinical reality **transfers unchecked, paternalistic power to physicians**.
+  - Hendin documented widespread non-voluntary euthanasia: doctors actively ending the lives of vulnerable patients without their request, including terminal Catholic patients to *"spare them a conscience crisis"*.
+  - Empirical proof of the **slippery slope**: moving from intractable terminal agony to psychiatric illness, depression, dementia, and paediatric euthanasia (Groningen Protocol).
+
+---
+
+### 4. James Rachels (1975): Killing vs Letting Die
+* **The Consequentialist Argument:** In "Active and Passive Euthanasia" (*NEJM* 1975), Rachels presented the famous thought experiment of Smith and Jones: Smith drowns his young cousin in the bathtub to inherit money; Jones watches his cousin slip and drown in the bath and does nothing to save him. Rachels argued that since the motive and outcome are identical, there is no moral difference between active killing and letting die.
+* **Catholic Scholastic Refutation:**
+  - Rachels commits a consequentialist reduction, ignoring the **moral object (*finis operis*)**.
+  - In Jones's case, Jones deliberately omits a strict moral duty with homicidal intent; his omission is an act of murder.
+  - In authentic medical ethics, withdrawing a disproportionate treatment (*letting die*) is not choosing death: the intention is to cease futile or burdensome medical aggression, accepting the natural limits of mortal life. Death is caused by the underlying lethal pathology, not by the physician's choice.
+
+---
+
+# MODULE VIII: Quick-Reference Memory Anchors & Non-Negotiable Formulations
 
 1. **The "1 or 0" Definition of Direct Abortion (*Evangelium vitae*, n. 58):**
    - *"L'uccisione deliberata e diretta, comunque venga attuata, di un essere umano nella fase iniziale della sua esistenza, compresa tra il concepimento e la nascita."*
-2. **The "1 or 0" Definition of Euthanasia (*Iura et bona*, Section II):**
-   - *"Un'azione o un'omissione che di sua natura e nelle intenzioni procura la morte, allo scopo di eliminare ogni dolore."*
+2. **The "1 or 0" Definition of Euthanasia (*Iura et bona*, Section II / *EV* 65):**
+   - CDF 1980: *"Un'azione o un'omissione che di sua natura o nelle intenzioni procura la morte, allo scopo di eliminare ogni dolore."*
+   - John Paul II 1995 (*EV* 65): *"Un'azione o un'omissione che di sua natura e nelle intenzioni procura la morte, allo scopo di eliminare ogni dolore."*
 3. **The Three Fundamental Goods (*Dignitas personae*, n. 12):**
    - 1. Right to life and physical integrity from conception to natural death.
    - 2. Unity of marriage (becoming parents only through each other).
    - 3. Specifically human values of sexuality (fruit of conjugal act).
 4. **The Golden Criterion of *Donum vitae* (II.B.7):**
-   - *Adiuvet* = Licit Assistance to the marital act.
-   - *Subroget* = Illicit Substitution of the marital act by technological dominion.
+   - *Adiuvet* = Licit Assistance to the conjugal act.
+   - *Subroget* = Illicit Substitution of the conjugal act by technological dominion.
 5. **The Three Legitimate Withdrawal Limits of ANH (*Samaritanus bonus*, V.3):**
-   - 1. Physiological futility (inability to assimilate food/fluids).
-   - 2. Disproportionate physical burden / severe complications.
+   - 1. Physiological futility (inability to assimilate food and fluids).
+   - 2. Disproportionate physical burden / severe clinical complications.
    - 3. Imminent agonal phase of active dying.
 6. **The Three Criteria for Deep Continuous Sedation (*Samaritanus bonus*, V.4):**
    - 1. Refractory terminal symptoms only.
-   - 2. Double effect (death neither end nor means).
-   - 3. Conscious opportunity to settle duties and receive Sacraments prior to sedation.
+   - 2. Principle of double effect (*praeter intentionem*).
+   - 3. Opportunity to settle moral duties and receive Sacraments prior to sedation.
 7. **The Status of Frozen Embryos (*Dignitas personae*, n. 19):**
    - *"Situazione di ingiustizia di fatto insanabile"* (prenatal adoption rejected).
-8. **PGD Evaluation (*Dignitas personae*, n. 22):**
+8. **Pre-implantation Genetic Diagnosis (*Dignitas personae*, n. 22):**
    - Expression of a **eugenic mentality** (*mentalità eugenetica*).
 9. **The Two CDF 2007 Responsa on ANH:**
    - Question 1: **AFFIRMATIVE** (ANH is ordinary, proportionate, and obligatory).
    - Question 2: **NEGATIVE** (ANH cannot be withdrawn because consciousness is permanently lost).
 10. **Refusal of Sacraments in Euthanasia (*Samaritanus bonus*, V.11):**
     - Sacraments **cannot** be administered so long as the request for euthanasia is obstinately maintained; requires sincere contrition and explicit retraction.
+11. **The Three Dogmatic Declarations of *Evangelium vitae* (*Lumen gentium* 25 §2):**
+    - *EV* 57 (Murder of the innocent); *EV* 62 (Direct abortion); *EV* 65 (Euthanasia).
+12. **The Two Valid Criteria for Verifying Death (John Paul II, 2000):**
+    - Cardiorespiratory criterion and Neurological criterion (total brain death including the brainstem).
+
+---
+
+# MODULE IX: Master Examination Question Bank & Model Exam Responses
+
+---
+
+### Part 1: High-Yield Practice Multiple-Choice Questions (MCQs)
+
+#### Question 1
+**Quale tra le seguenti affermazioni descrive correttamente la dottrina di *Evangelium vitae* (n. 65) e *Iura et bona* (II) sulla definizione di eutanasia?**
+- [ ] A. L'eutanasia include la sospensione di trattamenti medici gravosi e sproporzionati quando la morte è imminente.
+- [ ] B. È un'azione o omissione che di sua natura o/e nelle intenzioni procura la morte, allo scopo di eliminare ogni dolore.
+- [ ] C. È l'atto medico di sedazione somministrato nella fase terminale per dominare il dolore refrattario.
+- [ ] D. È la somministrazione di analgesici potenti che ha come effetto secondario non voluto l'abbreviazione della vita.
+> **Correct Answer: B**  
+> *Rationale:* This is the exact verbatim Magisterial definition from *Iura et bona* Section II and *EV* 65. Options A and D describe licit end-of-life care; Option C describes palliative sedation.
+
+#### Question 2
+**Secondo l'Istruzione *Donum vitae* (II.B.7), quale criterio morale dirimente distingue una tecnica lecita da una illecita nella procreazione assistita?**
+- [ ] A. La percentuale di successo clinico nel conseguire una gravidanza a termine.
+- [ ] B. Se la tecnica costa meno rispetto ad altri trattamenti di fecondazione in vitro.
+- [ ] C. Se il mezzo tecnico aiuta o facilita l'atto coniugale (*adiuvet*), oppure se si sostituisce ad esso (*subroget*).
+- [ ] D. Se i gameti utilizzati provengono esclusivamente dai coniugi o da un donatore esterno.
+> **Correct Answer: C**  
+> *Rationale:* The *adiuvet* vs *subroget* distinction is the central moral criterion of *Donum vitae*. Even homologous IVF with marital gametes is illicit because it substitutes for the marital act.
+
+#### Question 3
+**Come qualifica l'Istruzione *Dignitas personae* (n. 19) la condizione delle migliaia di embrioni umani congelati e abbandonati?**
+- [ ] A. Una situazione risolvibile mediante l'adozione prenatale da parte di coppie sterili generose.
+- [ ] B. Una situazione di ingiustizia di fatto insanabile, per la quale non esiste alcuna uscita moralmente lecita.
+- [ ] C. Una condizione biologica neutra che autorizza la ricerca scientifica per salvare altre vite umane.
+- [ ] D. Una situazione eccezionale in cui la Chiesa autorizza il decongelamento e la distruzione pietosa.
+> **Correct Answer: B**  
+> *Rationale:* *Dignitas personae* explicitly rejected prenatal adoption and declared the cryopreserved state to be a *"situazione di ingiustizia di fatto insanabile"*.
+
+#### Question 4
+**In quale circostanza la Lettera *Samaritanus bonus* (V.3) e il Responsum CDF (2007) autorizzano la sospensione dell'Idratazione e Nutrizione Artificiali (INA)?**
+- [ ] A. Quando il paziente entra in stato vegetativo permanente e non mostra segni di coscienza.
+- [ ] B. Quando la famiglia dichiara che la qualità della vita del malato non è più dignitosa.
+- [ ] C. Quando l'organismo non è più in grado di assimilare i nutrienti o la somministrazione provoca gravi sofferenze fisiche.
+- [ ] D. Quando i costi ospedalieri superano le risorse del sistema sanitario pubblico.
+> **Correct Answer: C**  
+> *Rationale:* Cognitive impairment or PVS never justifies withdrawing ANH. Only physiological futility (inability to assimilate) or disproportionate physical burden/severe harm justifies withdrawal.
+
+#### Question 5
+**Nel suo Discorso al Congresso della Transplantation Society (29 agosto 2000), cosa insegna San Giovanni Paolo II sul criterio neurologico di morte?**
+- [ ] A. La Chiesa rigetta la morte cerebrale, ammettendo unicamente l'arresto cardiaco irreversibile.
+- [ ] B. Il criterio neurologico (cessazione irreversibile di tutte le funzioni dell'encefalo) è un metodo scientificamente valido per accertare con certezza morale la morte della persona.
+- [ ] C. La morte cerebrale coincide con la perdita permanente delle sole funzioni corticali superiori (stato vegetativo).
+- [ ] D. Gli organi possono essere prelevati da un paziente morente anche prima che la morte sia accertata con certezza.
+> **Correct Answer: B**  
+> *Rationale:* Total brain death (including the brainstem) is recognized as a valid clinical criterion for ascertaining that the unitary integration of the human organism has permanently ceased.
+
+---
+
+### Part 2: Short-Answer Model Questions (*Domande Brevi*)
+
+#### Question 1: Ruth Macklin on Human Dignity
+**Question:** *Cosa ha scritto Ruth Macklin sulla dignità umana e perché la bioetica personalista ne rigetta la tesi?*
+> **Model Full-Credit Answer:**  
+> Nel dicembre 2003, la bioeticista Ruth Macklin ha pubblicato sul *British Medical Journal* l'editoriale *"Dignity is a useless concept"*, sostenendo che la dignità è un concetto vacuo e ridondante, che non significa altro che rispetto per l'autonomia del paziente. La bioetica personalista rigetta questa riduzione perché elimina la tutela morale di tutti gli esseri umani privi di autonomia attuale (embrioni, neonati, cerebrolesi, dementi, pazienti in coma o stato vegetativo), i quali possiedono un'intrinseca ed inalienabile dignità ontologica (*dignitas ontologica*).
+
+#### Question 2: St John Paul II to Women Who Have Aborted (*EV* 99)
+**Question:** *Cosa dice San Giovanni Paolo II nell'enciclica Evangelium vitae alle donne che hanno abortito?*
+> **Model Full-Credit Answer:**  
+> In *Evangelium vitae* (n. 99), Giovanni Paolo II si rivolge alle donne con profonda misericordia e verità: riconosce le pressioni e le ferite del loro cuore, ribadisce la gravità dell'aborto, ma le esorta a non disperare. Attraverso il sacramento della Riconciliazione, possono ottenere il perdono di Dio, affidare il loro bambino alla misericordia del Padre e trasformare la loro sofferenza divenendo tra le più eloquenti e coraggiose difenditrici del diritto alla vita.
+
+#### Question 3: The Principle of Double Effect in Terminal Analgesia
+**Question:** *Quali sono le condizioni morali stabilite da Pio XII (1957) e Iura et bona (III) per l'uso di analgesici che possono abbreviare la vita?*
+> **Model Full-Credit Answer:**  
+> In virtù del principio del duplice effetto, è lecito somministrare narcotici e oppioidi per dominare dolori refrattari anche se ne deriva una non voluta abbreviazione della vita (*praeter intentionem*), a tre condizioni: 1) la morte non deve essere voluta né come fine né come mezzo; 2) non vi sono altri mezzi clinici per controllare il dolore; 3) il paziente ha avuto la possibilità di adempiere i propri doveri morali e spirituali prima di perdere la coscienza.
+
+#### Question 4: The Verbatim Definition of Abortion (*EV* 58)
+**Question:** *Fornire la definizione esatta e letterale di aborto procurato secondo Evangelium vitae 58.*
+> **Model Full-Credit Answer (The "1 or 0" Standard):**  
+> *"L'uccisione deliberata e diretta, comunque venga attuata, di un essere umano nella fase iniziale della sua esistenza, compresa tra il concepimento e la nascita."*
+
+---
+
+### Part 3: Model Synthetic Essays (1 Page)
+
+#### Model Essay 1: The Personalist Critique of Assisted Reproductive Technologies
+*Analyze why Catholic moral theology (*Donum vitae*, *Dignitas personae*) judges homologous IVF (*FIVET omologa*) to be intrinsically illicit, highlighting the goods of human procreation.*
+
+> The moral evaluation of Medically Assisted Procreation (MAP) within Catholic personalism does not arise from a suspicion of modern medical science, but from a profound defence of the dignity of the child and the truth of spousal love. In *Donum vitae* (1987) and *Dignitas personae* (2008), the Church articulates three non-negotiable goods: the right to life of the conceived child from conception, the unity of marriage, and the specifically human nature of the conjugal act.
+>
+> The decisive ethical criterion is the distinction between **assistance (*adiuvet*)** and **substitution (*subroget*)**. Medical therapies that heal parental pathologies or assist the marital act to achieve its natural end are morally praiseworthy. In contrast, In Vitro Fertilisation (IVF) substitutes the conjugal act, transferring the generation of human life into a laboratory setting. 
+>
+> This technological substitution violates the personalist principle in two foundational dimensions. First, it fractures the indissoluble connection between the unitive and procreative meanings of the conjugal act affirmed in *Humanae vitae* (n. 12). Procreation ceases to be the bodily, reciprocal gift of self between husband and wife, becoming instead a technical production (*productum technologicum*) under the dominion of laboratory technicians (*dominium technicum*). The child is no longer received as a pure gift (*filius ut donum*), but produced as an object answering parental desire.
+>
+> Second, IVF is inseparable from systemic, massive embryonic destruction: the production of "surplus" embryos, selective reduction, high implantation failure rates, and cryopreservation. Freezing embryos exposes human beings to a condition of radical abandonment and grave existential injustice (*ingiustizia di fatto insanabile*). Hence, even homologous IVF using the gametes of married spouses is an *actus intrinsece malus*, reducing the origin of the human person to a biological manufacturing process.
+
+---
+
+#### Model Essay 2: The Ethico-Political Debate on Euthanasia in Secular Pluralist States
+*How should a Catholic moralist argue against euthanasia legislation in a secular democracy without appealing to religious dogmatic authority?*
+
+> In a secular, liberal pluralistic democracy, opponents of euthanasia cannot effectively appeal to confessional dogma or ecclesiastical authority (*"the Church teaches it is a sin"*). Instead, the opposition to euthanasia must be articulated through rational, anthropological, sociological, and clinical arguments grounded in the common good and the protection of the vulnerable.
+>
+> The liberal argument presents euthanasia as the ultimate exercise of individual autonomy: *"If a Catholic does not desire euthanasia, he is free to refuse it; why deny this option to non-believers?"* This argument is flawed because civil laws are never morally neutral; laws possess an unavoidable pedagogical and structural force that reconfigures the ethos of society. Legalising euthanasia does not merely provide an option for the autonomous few; it systematically destroys **social solidarity (*solidarietà sociale*)**.
+>
+> In an ageing society characterised by loneliness and strained healthcare budgets, the legal option of euthanasia swiftly transforms into a subtle, coercive expectation. The elderly, chronically ill, disabled, and economically deprived begin to internalise the message that they have become an intolerable emotional, social, and financial burden to their families (*un peso per gli altri*). The "right to die" rapidly devolves into the "duty to die".
+>
+> This dynamic is empirically demonstrated by the Dutch experience, documented in Herbert Hendin's clinical investigation *Seduced by Death* (1996). Hendin demonstrated that euthanasia does not empower the patient; it empowers the physician, creating unchecked paternalistic authority. Hendin documented numerous instances of non-voluntary euthanasia, where physicians ended lives without patient consent. Furthermore, every Western jurisdiction that has legalised euthanasia has experienced an uncontrollable **slippery slope (*pendio scivoloso*)**: expanding from intractable terminal physical pain to depression, psychiatric suffering, dementia, and minors (the Groningen Protocol).
+>
+> The authentic medical and democratic response to suffering is not the infliction of death, but the provision of comprehensive **palliative care (*cure palliative*)** and palliative sedation for refractory distress. True democracy protects the inviolability of every innocent life, refusing to divide human beings into lives that are worthy of living and lives that can be eliminated.
+
